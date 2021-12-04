@@ -1,4 +1,3 @@
-/* eslint linebreak-style: ["error", "windows"] */
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
@@ -26,7 +25,7 @@ function Calculator() {
     }
     return 0;
   };
-  
+
   return (
     <div className="main-container" id="main-container">
       <div>
