@@ -36,6 +36,7 @@ function Calculator() {
           <input
             type="number"
             className="display-calc grey"
+            data-testid="in"
             id="display-Calc"
             readOnly
             value={display()}

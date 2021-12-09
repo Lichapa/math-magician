@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders calculator 1`] = `
+<div
+  className="main-container flex row center"
+>
+  <div>
+    <h2>
+      Let's do some math
+    </h2>
+  </div>
+  <div
+    className="calculator"
+    id="main-container"
+  >
+    <div>
+      <input
+        className="display-calc grey"
+        data-testid="in"
+        id="display-Calc"
+        readOnly={true}
+        type="number"
+        value={0}
+      />
+    </div>
+    <div
+      className="buttons"
+    >
+      <button
+        className="white AC"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="white plus-minus"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="white percent"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="orange divide"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="orange multiply"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="orange subtract"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="white number-btn"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="orange addition"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="zero"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="white decimal"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="orange equal"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
