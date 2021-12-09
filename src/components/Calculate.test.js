@@ -1,7 +1,8 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import { cleanup, fireEvent, render, screen } from '@testing-library/react';
-// import { PropTypes } from 'prop-types';
+import {
+  cleanup, fireEvent, render, screen,
+} from '@testing-library/react';
 import Calculator from './Calculator';
 
 it('Renders calculator', () => {
